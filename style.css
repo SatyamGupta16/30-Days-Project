@@ -68,6 +68,8 @@ body {
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   box-shadow: 0 0 10px #00f7ff40;
+  width: 56px;
+  height: 54px;
 }
 
 .btn:hover {
